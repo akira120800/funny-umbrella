@@ -182,7 +182,8 @@ border-top: 3px solid black;
 
 }
 
-.form {padding-left: 30px;
+.form {
+    padding-left: 30px;
 padding-top: 50px;
 float: left;
 }

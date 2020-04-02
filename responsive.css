@@ -7,11 +7,16 @@
         font-size:15px;
     }
     .header-top h1{
-     font-size:20px;
-     width:50%;
+     font-size:28px;
+     width:380px;
      margin-bottom: 5px;
         
     }
+.header-top p{
+
+  padding-left:150px;
+}
+
     .bar{
       height: 100px;
 
@@ -34,6 +39,11 @@
     height:50px;
     
     
+    }
+
+    .contact{
+    margin:0px;
+
     }
     
 }
