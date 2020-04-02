@@ -3,6 +3,8 @@
         width:43% ;
         padding-right: 50px;
         padding-bottom: 10px;
+        margin-bottom:10px;
+        font-size:15px;
     }
     .header-top h1{
      font-size:20px;
@@ -23,6 +25,7 @@
     height:50px;
     margin:0px;
     padding: 0px;
+    margin-left: 40px;
 
     }
     .sns-image{
@@ -32,33 +35,69 @@
     
     
     }
-
+    
 }
 
-@media screen and (max-width:785px){
+@media screen and (max-width:810px){
     .scroll-images{
         padding:0px; 
         width:100%;
       }
 
+      .contents-item{
+        width: 0px;
+        margin-left: 0px;
+       font-size: 80%;
+       margin-right: 0px;
+       }
+
       .bar{
         height: 100px;
   
       }
+      .contact-addition{
+      margin-left:50px;
+
+      }
+
+
+.Youtube-text{
+  height: 430px;
+  
+  }
+
+  .contents-text {
+  width:100% ;
+
+
+  }
+
+  .bar li{
+    padding-left:50px;
+  }
+
+.header-top{
+padding-left:30px;
+
+}
+
 }
 @media screen and (max-width:900px){
 
-    .contents-item{
-        width:200px;
+    .main{
+      margin-left:0px;
+      width: 100%;
     }
 
+.contents-item{
+  height:auto;
+}
 }
 
 @media screen and (max-width:1050px){
 .contents-item{
- width: 800px;
+ width: 100%;
  margin-left: 0px;
- float: left;
 
 }
 .contents{
@@ -104,7 +143,25 @@ display:none;
         
         
         }
+        .profile{
+          margin-left: 0px;
+          clear: left;
+        }
+
+        .Youtube{
+          margin-left: 0px;
+          float: left;
+        }
     
+        @media screen and (max-width:510px){
+        .addition{
+         width:100%;
+
+        }
+
+        }
 
 
 }
+
+
