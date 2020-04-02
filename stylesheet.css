@@ -1,0 +1,241 @@
+*{
+    padding: 0px;
+     margin: 0px;
+     background-size: cover !important;
+     list-style: none;
+    }
+    
+.header{
+    width:100%;
+    height:100px;
+    background-size: cover !important;
+}
+
+.header-top {
+    float: left;
+    padding-left: 40%;
+    padding-top: 20px;
+}
+.header-top h1{
+font-family: 'Palatino Linotype';
+
+}
+.header-top p{
+padding-left:320px;
+
+}
+
+.bar {
+    height:50px;
+    background-color: black;
+}
+ .bar li{
+    padding-left: 120px;
+    padding-top:11px;
+    float: left;
+    color: cornsilk;
+    text-align: center;
+    
+}
+
+#left-contents{
+    width:50px;
+    height:200px;
+    background-color: darkgray;
+    border-radius: 10px;
+    padding-top:20px;
+    margin-left: 170px;
+}
+
+
+.scroll-images{
+    height:400px;
+    width:600px;
+    padding-left: 30%;
+}
+
+.main{
+    margin: 0px 100px auto 100px;
+}
+
+.sns-image { 
+    border-radius: 40px;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;  
+    border-bottom: 2px solid black;  
+}
+
+.contents{
+    float: left;
+    margin-top: 15px;
+
+}
+
+.contents-item{
+width: 800px;
+height:350px;
+margin-left: 150px;
+margin-bottom: 15px;
+border: 1px solid black;
+border-radius: 3px;
+
+}
+
+.contents-item span{
+float: right;
+font-size:20px;
+padding-top: 25px;
+
+}
+.contents-item img{
+width:250px;
+height:160px;
+float: left;
+
+}
+
+.profile{
+margin-left: 150px;
+height: 430px;
+width: 320px;
+border: 1px solid black;
+border-radius: 3px;
+}
+
+.my-image{
+float:left;
+}
+
+.not-complete{
+
+    text-align: center;
+    margin-top: 100px;
+}
+
+.my-image-zone {
+height:210px;
+width:178px;
+float: left;
+}
+
+.my-text{
+padding: 5px;
+
+}
+#language-learned{
+border-top: 3px solid black;
+
+}
+
+.skills-acquired{
+    clear: left;
+    padding-bottom: 20px;
+}
+.img{
+    height: 150px;
+    width: 350px;
+}
+.answer{
+width: 350px;
+display:none;
+
+}
+
+.skill{
+    float: left;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.Youtube{
+    margin-left: 150px;
+    height: 430px;
+    width: 320px;
+    border: 1px solid black;
+    margin-top: 4px;
+    }
+
+    .Youtube img{
+        height:210px;
+        width:178px;
+        float: left;
+    }
+    .Youtube-text span{
+    border-bottom: 2px solid black;
+
+    }
+
+    .Youtube-text {
+        padding: 5px;
+    }
+
+.footer {
+    width: 100%;
+    clear: left;
+}
+.footer-head {
+border-top: 3px solid black;
+
+}
+
+.form {padding-left: 30px;
+padding-top: 50px;
+float: left;
+}
+
+.input-name{
+
+    height: 30px;
+    width: 330px;
+    border-radius: 2px;
+    border: 2px solid #ddd;
+
+   
+}
+.input-mail{
+    height: 30px;
+    width: 330px;
+    border: 2px solid #ddd;
+    margin-top: 5px;
+}
+
+.input-contents{
+margin-top: 20px;
+width: 330px;
+height: 60px;
+border-radius: 2px;
+border: 2px solid #ddd;
+margin-top: 5px;
+margin-right: 10px;
+
+
+}
+
+.input-btn{
+
+border-radius: 3px;
+border: 2px solid #ddd;
+width: 330px;
+margin-top: 5px;
+}
+
+.contact {
+margin: 10px;
+
+float: left;
+
+}
+
+.addition{
+width: 450px;
+display: inline-block;
+text-align: center;
+}
+
+#footer-head{
+border-top:2px solid black;
+
+}
+
